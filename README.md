@@ -1,6 +1,8 @@
 # Pipeline for training MLAgents environments using Kaggle Notebooks
 A custom environment was created for the project in Unity using MLAgents. Next, the environment was trained using reinforcement learning algorithms in Kaggle Notebook using Stable Baselines3. At the moment, I have not found other examples on the Internet where it would be possible to combine these frameworks and runtimes.
 
+![alt text](result_spyder.gif)
+
 ## Why this combination?
 
 Unity MLAgents makes it easy to create your own reinforcement learning environments and has connections to Python and Gym to standardize the environment.
