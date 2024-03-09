@@ -17,7 +17,7 @@ My own environment was used, created in Unity using Ariticulation Body (allows y
 The environment is a spider with 8 degrees of freedom. A reward is given for each step in proportion to the speed in the desired direction with a shift (negative reward for standing still). More details about the environment will be written in another repository.
 The Soft Aсtor-Critic algorithm from Stable Baselines 3 taught a spider to walk in 100,000 steps.
 
-![alt text](result.jpg | width=200)
+<img src='result.jpg' width='25'>
 
 ## Tensorboard Visualization
 
