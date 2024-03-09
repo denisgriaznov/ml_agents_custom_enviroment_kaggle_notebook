@@ -27,7 +27,7 @@ unity_env = UnityEnvironment(env_path, no_graphics=True)
 ```
 ## Converting to a Unity model
 
-To convert the resulting SAC model into **.onnx** format for use in Unity, you can run the script after first changing the ```CONTINUOUS_ACTIONS_SIZE``` to your own and placing **saс_model.zip** in the same folder.
+To convert the resulting SAC model into **.onnx** format for use in Unity, you can run the script [onnx_convert.py](onnx_convert.py) after first changing the ```CONTINUOUS_ACTIONS_SIZE``` to your own and placing **saс_model.zip** in the same folder.
 
 ## Enviroment and results
 
