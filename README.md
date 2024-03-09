@@ -23,8 +23,8 @@ The Soft Aсtor-Critic algorithm from Stable Baselines 3 taught a spider to walk
 
 To visualize the results, you can use Google Colab by loading the resulting tensorboard archive into the content folder and calling the console commands:
 
-'''
+```
 !unzip ./sac_spyder_tensorboard.zip
 %load_ext tensorboard
 %tensorboard --logdir /content/kaggle/working/sac_spyder_tensorboard
-'''
+```
