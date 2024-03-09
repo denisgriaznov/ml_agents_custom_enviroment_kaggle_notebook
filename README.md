@@ -26,6 +26,9 @@ In addition, you need to remember that you do not have a display to display the 
 ```
 unity_env = UnityEnvironment(env_path, no_graphics=True)
 ```
+## Converting to a Unity model
+
+To convert the resulting SAC model into .onnx format for use in Unity, you can run the script after first changing the environment characteristics to your own.
 
 ## Enviroment and results
 
