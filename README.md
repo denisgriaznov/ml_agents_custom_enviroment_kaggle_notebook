@@ -4,9 +4,9 @@
 
 ## Why this combination?
 
-[Unity MLAgents](https://unity.com/ru/products/machine-learning-agents) makes it easy to create your own reinforcement learning environments and has connections to Python and Gym to standardize the environment.
-
 The main advantage of the [Kaggle](https://www.kaggle.com/) core is the ability to work in the background for quite a long time for free (compared to [Colab](https://colab.research.google.com/)). This allows you not to use your own computer for rather lengthy calculations.
+
+[Unity MLAgents](https://unity.com/ru/products/machine-learning-agents) makes it easy to create your own reinforcement learning environments and has connections to Python and Gym to standardize the environment.
 
 [Stable Baselines](https://stable-baselines3.readthedocs.io/en/master/) provides state-of-the-art, robust reinforcement learning methods, as well as easy tracking of experiments in [Tensorboard](https://www.tensorflow.org/tensorboard?hl=ru).
 
