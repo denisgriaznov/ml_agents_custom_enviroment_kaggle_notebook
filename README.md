@@ -1,7 +1,7 @@
 # Pipeline for training MLAgents environments using Kaggle Notebooks
 A custom environment was created for the project in Unity using MLAgents. Next, the environment was trained using reinforcement learning algorithms in Kaggle Notebook using Stable Baselines3. At the moment, I have not found other examples on the Internet where it would be possible to combine these frameworks and runtimes.
 
-![alt text](result_spyder.gif)
+<img src='result_spyder.gif' width='500'>
 
 ## Why this combination?
 
@@ -17,7 +17,7 @@ My own environment was used, created in Unity using Ariticulation Body (allows y
 The environment is a spider with 8 degrees of freedom. A reward is given for each step in proportion to the speed in the desired direction with a shift (negative reward for standing still). More details about the environment will be written in another repository.
 The Soft Aсtor-Critic algorithm from Stable Baselines 3 taught a spider to walk in 100,000 steps.
 
-<img src='result.jpg' width='200'>
+<img src='result.jpg' width='500'>
 
 ## Tensorboard Visualization
 
