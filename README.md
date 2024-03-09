@@ -4,7 +4,7 @@
 
 ## Why this combination?
 
-The main advantage of the [Kaggle](https://www.kaggle.com/) core is the ability to work in the background for quite a long time for free (compared to [Colab](https://colab.research.google.com/)). This allows you not to use your own computer for rather lengthy calculations.
+The main advantage of the [Kaggle](https://www.kaggle.com/) core is the ability to work in the background for quite a long time for free (compared to [Colab](https://colab.research.google.com/)). This allows you not to use your own computer for rather lengthy calculations. By "Commit & Run" your notebook, you can get up to 12 hours of computing time in the background, with the output saved and available for download at any time.
 
 [Unity MLAgents](https://unity.com/ru/products/machine-learning-agents) makes it easy to create your own reinforcement learning environments and has connections to Python and Gym to standardize the environment.
 
